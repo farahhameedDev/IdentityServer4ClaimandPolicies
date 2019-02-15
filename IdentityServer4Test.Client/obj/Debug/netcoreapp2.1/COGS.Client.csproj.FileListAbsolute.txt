@@ -1,0 +1,11 @@
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\bin\Debug\netcoreapp2.1\COGS.Client.deps.json
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\bin\Debug\netcoreapp2.1\COGS.Client.runtimeconfig.json
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\bin\Debug\netcoreapp2.1\COGS.Client.runtimeconfig.dev.json
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\bin\Debug\netcoreapp2.1\COGS.Client.dll
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\obj\Debug\netcoreapp2.1\COGS.Client.csproj.CoreCompileInputs.cache
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\obj\Debug\netcoreapp2.1\COGS.Client.AssemblyInfoInputs.cache
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\obj\Debug\netcoreapp2.1\COGS.Client.AssemblyInfo.cs
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\obj\Debug\netcoreapp2.1\COGS.Client.csprojAssemblyReference.cache
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\bin\Debug\netcoreapp2.1\COGS.Client.pdb
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\obj\Debug\netcoreapp2.1\COGS.Client.dll
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Client\obj\Debug\netcoreapp2.1\COGS.Client.pdb

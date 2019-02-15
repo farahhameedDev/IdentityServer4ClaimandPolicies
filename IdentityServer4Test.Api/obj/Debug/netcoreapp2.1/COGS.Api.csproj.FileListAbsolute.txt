@@ -1,0 +1,14 @@
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\bin\Debug\netcoreapp2.1\COGS.Api.deps.json
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\bin\Debug\netcoreapp2.1\COGS.Api.runtimeconfig.json
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\bin\Debug\netcoreapp2.1\COGS.Api.runtimeconfig.dev.json
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\bin\Debug\netcoreapp2.1\COGS.Api.dll
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.csproj.CoreCompileInputs.cache
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.RazorAssemblyInfo.cache
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.RazorAssemblyInfo.cs
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.AssemblyInfoInputs.cache
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.AssemblyInfo.cs
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.RazorTargetAssemblyInfo.cache
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\bin\Debug\netcoreapp2.1\COGS.Api.pdb
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.dll
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.pdb
+C:\Users\farah.hameed\Source\Repos\COGS\COGS.Api\obj\Debug\netcoreapp2.1\COGS.Api.csprojAssemblyReference.cache

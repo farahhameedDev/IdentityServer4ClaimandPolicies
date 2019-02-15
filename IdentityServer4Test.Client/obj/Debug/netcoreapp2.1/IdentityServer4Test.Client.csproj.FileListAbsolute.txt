@@ -1,0 +1,10 @@
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\bin\Debug\netcoreapp2.1\IdentityServer4Test.Client.deps.json
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\bin\Debug\netcoreapp2.1\IdentityServer4Test.Client.runtimeconfig.json
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\bin\Debug\netcoreapp2.1\IdentityServer4Test.Client.runtimeconfig.dev.json
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\bin\Debug\netcoreapp2.1\IdentityServer4Test.Client.dll
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\bin\Debug\netcoreapp2.1\IdentityServer4Test.Client.pdb
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\obj\Debug\netcoreapp2.1\IdentityServer4Test.Client.csproj.CoreCompileInputs.cache
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\obj\Debug\netcoreapp2.1\IdentityServer4Test.Client.AssemblyInfoInputs.cache
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\obj\Debug\netcoreapp2.1\IdentityServer4Test.Client.AssemblyInfo.cs
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\obj\Debug\netcoreapp2.1\IdentityServer4Test.Client.dll
+C:\Users\farah.hameed\Source\Repos\IdentityServer4Test\COGS.Client\obj\Debug\netcoreapp2.1\IdentityServer4Test.Client.pdb
